@@ -1,0 +1,6 @@
+{"first_name": "Bipul", "last_name":"Kumar", "jobs": [{"employer": "google", "office_postcode" : "SW11"},{"employer": "oracle", "office_postcode" : "EC1"}]}
+{"first_name": "John", "last_name":"Smith", "jobs": [{"employer": "Smith & Co", "office_postcode" : "SW5"},{"employer": "John's Consultancy", "office_postcode" : "HA5"}]}
+{"first_name": "David", "last_name":"", "jobs": [{"employer": "A Big Bank", "office_postcode" : "SW1"},{"employer": "A Small Bank", "office_postcode" : "EC2"}]}
+{"last_name": "Edward", "jobs": [{"employer": "Mega Retailer", "office_postcode" : "NW1"},{"employer": "CorenerStore", "office_postcode" : "HA1"}]}
+{"first_name": "Steve", "jobs": [{"employer": "ABigInsurer", "office_postcode" : "SW5"},{"employer": "ASmallInsurer", "office_postcode" : "HA5"}]}
+{"first_name": "Richard", "jobs": [{"employer": "Earth Media", "office_postcode" : "SW15"},{"employer": "Moon Media", "office_postcode" : "EC5"}]}
